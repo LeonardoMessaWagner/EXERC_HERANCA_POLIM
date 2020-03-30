@@ -1,4 +1,4 @@
-// Leonardo Wagner;
+// Leonardo Wagner e Bernard Machado;
 <?php
 class Imovel {
   public $endereco;
