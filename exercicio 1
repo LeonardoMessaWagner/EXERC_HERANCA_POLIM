@@ -33,7 +33,7 @@ public function aviao($m,$vel,$pass,$comb,$us,$tp){
   $this->tipo = $tp;
 }}
 $c1 = new Carro("jeep","190 KM/h",5,"320 litros",2,1970);
-$c2 = new Carro("Fiesta","220 KM/h",5,"45 litros",2,2005);
+$c2 = new Carro("Gordini","115 KM/h",5,"32 litros",4,1962);
 print_r ($c1);
 print_r ($c2);
 $av1 = new Aviao("PA-18","290 KM/h",1,"136 litros","agricola","Aeronave utilitária leve");
